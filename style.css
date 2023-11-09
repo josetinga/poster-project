@@ -1,0 +1,28 @@
+img {
+    border: 5px solid blueviolet;
+    width: 100%;
+}
+
+div {
+    text-align: center;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    font-family: "Libre Baskerville", serif;
+   
+}
+
+h1 {
+    text-transform: uppercase;
+    
+}
+
+html {
+    background-color: black;
+}
+
+p {
+    text-transform: capitalize;
+    font-family: "Libre Baskerville", serif;
+}
